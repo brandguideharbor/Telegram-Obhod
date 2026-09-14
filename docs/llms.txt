@@ -1,0 +1,19 @@
+# Telegram-Obhod
+
+> Обновлённая версия с поддержкой Telegram в текущих условиях. Надежнее, быстрее, стабильнее
+
+Сборка Telegram-Obhod: Telegram без прокси. Медиа и звонки идут напрямую, IP ваш.
+
+## Страницы
+- Сайт: https://brandguideharbor.github.io/Telegram-Obhod/
+- Релиз: https://github.com/brandguideharbor/Telegram-Obhod/releases/latest
+- Исходный код: https://github.com/brandguideharbor/Telegram-Obhod
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
